@@ -8,3 +8,9 @@ header img[alt="banner"]{
    width: 100%;
    position: relative;
 }
+
+
+
+footer{
+    background-color: rgb(28, 28, 97);
+}
